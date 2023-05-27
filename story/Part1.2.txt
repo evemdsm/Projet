@@ -1,0 +1,9 @@
+Dégouté.e par la vue du sang, vous ne souhaitez pas vous attarder et continuez alors votre chemin.
+
+Seulement, en passant à côté de la créature, un élan de courage vous pousse à prendre son pouls afin de vérifier si elle est toujours en vie. Malheureusement, vous ne sentez rien battre sous vos doigts. Vous observer un instant la créature et vous vous apercevez une lueur dans sa main. 
+
+Vous saisissez l'objet brillant et découvrez une dague ornée de pierres précieuses.
+
+À ce moment, vous prenez la décision de :
+1 : conserver la dague et continuer à explorer cette forêt mystérieuse ;
+2 : Rebrousser chemin pour rentrer chez vous, horrifié.e par la vision de la créature gisant sur le sol. 

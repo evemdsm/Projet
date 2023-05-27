@@ -1,0 +1,7 @@
+Au cours d'une tranquille soirée d'été, vous décidez de vous promener dans la forêt. Les rayons lumineux qui traversent le feuillage des arbres vous guident sur un sentier que vous n'avez encore jamais emprunté. 
+
+Cela fait désormais plusieurs minutes que vous vous baladez lorsque vous entendez des bruits étranges qui semblent venir de derrière un arbre imposant. 
+
+Vous décidez de :
+1 : Vous approcher prudemment pour discerner l'origine de ce bruit ;
+2 : Rebrousser chemin et changer de direction afin d'éviter tout danger.

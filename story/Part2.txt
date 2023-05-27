@@ -1,0 +1,9 @@
+Vous choisissez la prudence et prenez une autre direction pour éviter tout danger. 
+
+Vous marchez en profitant des derniers rayons de soleil lorsque vous vous retrouvez face à un ravin. 
+
+Sur celui-ci se trouve un pont en bois. Usé par le temps, il semble fragile. Vous n'êtes pas certain.e qu'il pourra soutenir votre poids. 
+
+Vous pouvez maintenant :
+1 : Essayer de traverser le ravin malgré tout ;
+2 : Chercher un autre chemin moins périlleux pour contourner le ravin.

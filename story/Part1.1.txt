@@ -1,0 +1,10 @@
+Vous tentez de soigner la créature en utilisant vos connaissances en premiers soins, vous parvenez donc à contrôler l'afflux de sang en comprimant la plaie avec les feuilles du chêne au dessus de vous. 
+
+Quelques minutes plus tard, l'état de la créature s'améliore et elle vous remercie en vous offrant un objet mystérieux.
+Elle vous explique ensuite que le chêne était un passage et que vous êtes désormais dans un monde magique dont elle fait partie : c'est un elfe. L'elfe rajoute mystérieusement que l'objet qu'il vient de vous donner est très précieux, et qu'il pourra s'avérer très utile pour la suite de votre aventure.
+
+Ayant retrouvé des forces et sans donner plus d'explications, il commence à s'éloigner.
+
+Vous pouvez maintenant :
+1 : Rappeler l'elfe pour obtenir plus d'informations sur ce monde et votre but dans celui-ci ;
+2 : Continuer à explorer la forêt à la recherche d'autres indices par vous-même.

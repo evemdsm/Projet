@@ -1,0 +1,9 @@
+Vous choisissez de chercher un autre chemin pour contourner le ravin. 
+
+Vous marchez paisiblement le long du ravin, lorsque vous apercevez un chemin qui vous permet de descendre pour en explorer les profondeurs. Prenant votre courage à deux mains, armé.e de votre sac, vous descendez le long du chemin étroit.
+
+Le chemin débouche alors sur une immense grotte, dans laquelle se trouve un lac entouré de deux arbres. Ces arbres sont particuliers, leur tronc est d'une couleur inattendue : il est bleu pâle presque transparent. Sur leur feuillage rose se dressent d'énormes fleurs blanches, avec au milieu, ce qui ressemble à un fruit, blanc également.
+
+Vous avez alors le choix de :
+1 : Continuer à descendre le long du chemin ;
+2 : Goûter le fruit de ces arbres si étranges.

@@ -1,0 +1,9 @@
+Vous vous avancez précautionneusement en direction du bruit. 
+
+L'arbre d'où le bruit semble provenir est un chêne massif surplombant le reste des arbres de la forêt. Le soleil commence à se coucher, et il devient donc de moins en moins aisé de distinguer les détails vous entourant.
+
+Néanmoins, une fois l'arbre contourné, vous apercevez une petite créature allongée sur le sol, à quelques mètres de vous. En vous approchant davantage, l'odeur du sang envahie vos narines et vous comprenez qu'elle est blessée.
+
+Vous pouvez alors :
+1 : Essayer de soigner la créature avec le peu de moyen que vous avez à votre disposition ;
+2 : Continuer votre chemin en faisant attention à ne pas vous mettre en danger.
